@@ -9,10 +9,7 @@ def third_challenge
         },
       :hero_friends => { 
         :heros_first_friend => {name = "Benvolio", age = "17", attitude = "worried" }
-        :hero_sencond_friend => {name = "Benvolio", age = "17", attitude = "worried"
-          
-        
-      }
+        :hero_sencond_friend => {name = "Mercutio", age = "18", attitude = "hot-heated"}
       }
    }, 
    :capulet => {
@@ -23,10 +20,10 @@ def third_challenge
       :heroine => { (name = "juliet", age = "15", status = "alive")
         },
       :heroine_friends => {
-        :Benvolio => { (name = "17", )
-      :
+        :heroine_first_friend => { (name = "Steven", age = "30", attitude "confused"}
+        :heroine_second_friend => {(name = "nurse", age = "44", attitude = "worried")
    }
   }
-
+}
   
 end
