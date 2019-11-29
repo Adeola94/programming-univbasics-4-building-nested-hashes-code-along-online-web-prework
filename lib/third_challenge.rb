@@ -9,7 +9,7 @@ def third_challenge
         },
       :hero_friends => { 
         :heros_first_friend => {name = "Benvolio", age = "17", attitude = "worried" }
-        :hero_sencond_friend => {
+        :hero_sencond_friend => {name = "Benvolio", age = "17", attitude = "worried"
           
         
       }
